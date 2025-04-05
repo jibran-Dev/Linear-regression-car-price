@@ -42,8 +42,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ### To Run the Notebook:
 - Open the `.ipynb` file using **Jupyter Notebook** or **Google Colab**
 - Run each cell from top to bottom to see the complete analysis and results
-##
-[car_price_dataset.csv](https://github.com/user-attachments/files/19618721/car_price_dataset.csv)
+  
+## Dataset
+- The dataset used for this analysis is  included in this repository. Ensure it's in the same directory as the notebook when running the code.
+- [car_price_dataset.csv](https://github.com/user-attachments/files/19618721/car_price_dataset.csv)
 ---
 
 ## Deployment
